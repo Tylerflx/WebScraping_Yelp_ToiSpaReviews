@@ -1,2 +1,2 @@
 # WebScraping_Yelp_ToiSpaReviews
-Scarping Reviews for Toi Spas
+Scarping Yelp Reviews for Toi Spa employees
